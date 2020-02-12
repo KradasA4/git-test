@@ -1,3 +1,11 @@
 this should be in the master
 this should be in the develop branch
 mock
+
+
+git commit -am “title” -m “description”
+git checkout -b name
+git branch -m old_name new_name
+git log --oneline --decorate --graph --all
+git merge branch_name -m “description”
+git merge branch_name --no--ff (no fast forward)
