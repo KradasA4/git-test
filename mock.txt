@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 accept only master change
 this should be in the develop branch
 mock
 
 
 test rebase
+=======
+this should be in the master
+>>>>>>> edit text to master
