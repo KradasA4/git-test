@@ -1,17 +1,57 @@
 # git-test
-# h1
-# #h2 test
-# # # h3
-# # # #h4 <br>
-test h4 second line
-# # # # # h5 Is this my repo?
+# H1
+## h2 
+### h3
+#### h4
+##### h5 Is this my repo?
 test h5 second line
-# # # # # # h6
+###### h6
 
-# h3 test h3
+# Line Break
+use br tag to break <br>  
 
-yifytigfyiyu <br>
-jpknpnjmpjnmj
 
-dsadasdsadas  
-dsadsadsadas
+test break line  
+use double space to break  
+test break line  
+
+# test > 
+> content
+>> nested blockquotes
+>>> nested blockquotes
+
+    
+# indent tab
+    test indent
+
+# bold / italic
+*lorem* *    b  
+**lorem** ** i   
+***lorem*** bi 
+
+# test underscore
+__content__ b  
+_content_ i  
+___content___ b i
+
+# test ordered list
+1. first
+2. second
+3. third
+
+# test unordered list
++ first
++ second
++ third
+
+
+# Pic and link
+![pic](https://www.techtalkthai.com/wp-content/uploads/2019/11/new-microsoft-edge-logo.jpg)
+[click me](https://www.google.co.th/) 
+
+# hr
+***
+---
+______
+
+# checkbox
