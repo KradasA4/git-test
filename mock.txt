@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 this should be in the master
-=======
 this should be in the develop branch
 mock
->>>>>>> develop
