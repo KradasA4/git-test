@@ -1,13 +1,24 @@
+<<<<<<< HEAD
 accept only master change
+=======
+this should be in the master
+>>>>>>> 8889bd0d10c8b193c4fc98635636b24ceaa0de77
 this should be in the develop branch
 mock
 
 
+<<<<<<< HEAD
 test rebase
 this should be in the master
+=======
+>>>>>>> 8889bd0d10c8b193c4fc98635636b24ceaa0de77
 git commit -am “title” -m “description”
 git checkout -b name
 git branch -m old_name new_name
 git log --oneline --decorate --graph --all
 git merge branch_name -m “description”
+<<<<<<< HEAD
 git merge branch_name --no--ff (no fast forward)
+=======
+git merge branch_name --no--ff (no fast forward)
+>>>>>>> 8889bd0d10c8b193c4fc98635636b24ceaa0de77
